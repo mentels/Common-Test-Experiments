@@ -1,0 +1,12 @@
+{application, cte,
+ [
+  {description, "Common Test Experiments"},
+  {vsn, "0.0.1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {included_applications, []},
+  {env, []}
+ ]}.
